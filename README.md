@@ -6,6 +6,8 @@ The system integrates perception, SLAM, path planning, and feedback control to e
 
 Developed and tested on ROS Noetic (Ubuntu 20.04).
 
+![Autonomous Simulation Demo](./Untitled%20design.gif)
+
 
 ## Installation
 
